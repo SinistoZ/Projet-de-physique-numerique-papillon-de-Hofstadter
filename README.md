@@ -1,1 +1,1 @@
-# Projet-de-physique-numerique-papillon-de-Hofstadter
+# Hofstadter's-Butterfly-computer-science-physics-project
